@@ -1,5 +1,7 @@
 ## CS 3041 Final
 
+*Link to [Design Manifesto](design_manifesto)*
+
 ### Design for Wellbeing
 [Demo Image](https://samuelb2.github.io/cs3041-final/assets/design_for_wellbeing_demo.png)
 
