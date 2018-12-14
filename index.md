@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## CS 3041 Final
 
-You can use the [editor on GitHub](https://github.com/samuelb2/cs3041-final/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Design for Wellbeing
+[Demo Image](https://samuelb2.github.io/cs3041-final/assets/design_for_wellbeing_demo.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Design for Wellbeing design module was focused around designing applications that respond to user emotions to promote wellbeing. My team decided to focus on eliciting the emotion of laughter and providing a user with a tool they can use to cheer themselves up with.
 
-### Markdown
+### Design for Tension
+[Demo Image](https://samuelb2.github.io/cs3041-final/assets/design_for_wellbeing_demo.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Design for Tension module was designed to provide an opportunity to explore how humans interact with chatbots and how we can use our understanding of human emotions and reactions to convey information about sensitive topics.
 
-```markdown
-Syntax highlighted code block
+### Design For Understanding
+[Demo Image](https://samuelb2.github.io/cs3041-final/assets/design_for_wellbeing_demo.png)
 
-# Header 1
-## Header 2
-### Header 3
+The Design for Understanding module was focused around finding ways to intuitively present information in ways that both convey lots of information as well as in ways that make a message obvious.
 
-- Bulleted
-- List
+### Design for Others
+[Demo Image](https://samuelb2.github.io/cs3041-final/assets/design_for_wellbeing_demo.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samuelb2/cs3041-final/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The Design for Others module tasked us to re-design an established website for mobile users of a specific demographic. In my groups case, we redesigned the Worcester Public Library website for users that were aged 75–85, with average computer/browser literacy.
