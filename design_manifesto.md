@@ -1,6 +1,6 @@
 # Design Manifesto
 
-[Home](/)
+[Home](/cs3041-final)
 
 ## Design Philosophy
 
