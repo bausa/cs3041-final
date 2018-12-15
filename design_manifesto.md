@@ -31,3 +31,7 @@ Technology for its own sake gets tiring very quickly. Designs should not incorpo
 ### Use feedback and data to refine design
 
 One of the most valuable skills I gained through this course was practice in applying user testing techniques. We used various methodologies such as [paper prototyping](http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html) in [Design for Others](https://medium.com/@jpking_52113/design-for-others-b027c6e6d53e) and talk aloud in almost every project. Applying input from other people caused our designs to improve. It's very easy to build something that feels right to you that doesn't actually work well in real applications. By constantly getting feedback, you can ensure your product meets the design goals you establish.
+
+## Conclusion
+
+Looking at the projects I've done in this class, these 5 "rules" seem to be a common thread that links together the good decisions my teams have made. Together, they embody necessary rules to follow for my work to be simple, intuitive, useful and always improving.
