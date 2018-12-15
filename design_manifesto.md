@@ -1,8 +1,6 @@
 # Design Manifesto
 
-## About Me
-
-My name is Sam. I am a senior at WPI and will be joining Apple in May as a software engineer. I have been working as an engineer for the past 8 years doing consulting work with companies such as IDEO, Adobe, and dozens of other startups.
+(Home)[/]
 
 ## Design Philosophy
 
