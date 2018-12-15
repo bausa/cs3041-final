@@ -16,7 +16,7 @@ In this document, I will be using the design modules and readings from CS 3041 t
 ### Consider the audience
 
 To design without knowing the audience of an application is simpley an exercise in asthetics. To build useful applications requires an intimate understand of how you expect users to use your product. If you designed a [Bloomberg Terminal](https://en.wikipedia.org/wiki/Bloomberg_Terminal) with an audience of kids aged 3-5 in mind, the actual customers would find the system extremely hard to use and limiting.
-This was one of my team's primary conciderations in all the design modules but it was especially relevent in [Design for Others](https://medium.com/@jpking_52113/design-for-others-b027c6e6d53e).
+This was one of my team's primary conciderations in all the design modules but it was especially relevent in [Design for Others](https://medium.com/@jpking_52113/design-for-others-b027c6e6d53e). In this module my team redesigned a website for elderly people. We designed elements to be large to meet accessibility standards and make the page easier to read for people without great eyesight. We also made changes like removing expanding elements from the homepage to make the location of elements as clear as possible. These may not have been good descision if we were targeting a young audience; however, our knowledge of our audience made these much clearer descisions to make.
 
 ### Less can be more
 
