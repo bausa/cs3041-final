@@ -1,6 +1,12 @@
-## CS 3041 Final
+# CS 3041 Final
 
 *Link to [Design Manifesto](design_manifesto)*
+
+## About Me
+
+My name is Sam. I am a senior at WPI and will be joining Apple in May as a software engineer. I have been working as an engineer for the past 8 years doing consulting work with companies such as IDEO, Adobe, and dozens of other startups.
+
+## Projects
 
 ### [Design for Wellbeing](https://medium.com/@sambaumgarten/design-for-wellbeing-f4c02c109f0e)
 [Demo Image](https://samuelb2.github.io/cs3041-final/assets/design_for_wellbeing_demo.png)
