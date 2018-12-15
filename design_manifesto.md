@@ -1,6 +1,6 @@
 # Design Manifesto
 
-(Home)[/]
+[Home](/)
 
 ## Design Philosophy
 
